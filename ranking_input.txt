@@ -1,0 +1,22 @@
+## If you want to try another example
+## create another .txt file with 
+## input exactly: "host_name guest_name host_score guest_score" 
+## and run "python ranking.py your_input.txt". 
+## be sure to have Numpy installed!
+
+harvard brown 22 14
+yale cornell 51 13
+dartmouth yale 38 31
+cornell harvard 7 24
+brown princeton 16 27
+cornell brown 16 42
+harvard princeton 49 7
+princeton cornell 38 27
+harvard dartmouth 23 12
+yale brown 45 42
+dartmouth cornell 42 7
+brown dartmouth 21 44
+princeton yale 30 44
+yale harvard 24 31
+dartmouth princeton 41 10
+

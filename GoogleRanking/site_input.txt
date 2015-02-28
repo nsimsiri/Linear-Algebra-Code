@@ -1,0 +1,18 @@
+# To comment, use #. 
+# the inputs is a markov matrix where each element is separated by a space
+
+# in class example:
+# 0 0 1 1/2
+# 1/3 0 0 0
+# 1/3 1/2 0 1/2
+# 1/3 1/2 0 0
+
+
+# My graph: 
+
+0 0 0 1/3 1/2
+1 0 0 1/3 0
+0 1 0 1/3 1/2
+0 0 0 0 0
+0 0 1 0 0
+

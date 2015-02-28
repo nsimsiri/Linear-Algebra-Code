@@ -1,0 +1,8 @@
+## please input exactly: "host_name guest_name host_score guest_score" ##
+
+harvard yale 30 10
+yale mit 10 12
+brown mit 22 10
+darthmouth yale 20 1
+
+## princeton harvard 10 2
